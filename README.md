@@ -73,10 +73,10 @@ endmodule
 ### Full Adder:
 ![image](https://github.com/Pavan-Gv/Exp-03-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/94827772/515989c5-ebba-499b-8a18-e2229ffd10d5)
 ### Output:
-### RTL
-#### Half Adder:
+### RTL:
+<b>Half Adder</b>:
 ![image](https://github.com/Pavan-Gv/Exp-03-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/94827772/59c468a4-0441-4567-a9a2-00ee1a444893)
-### Full Adder
+<b>Full Adder</b>:
 ![image](https://github.com/Pavan-Gv/Exp-03-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/94827772/95377b83-bee9-427c-8b65-2c58b975e6a6)
 
 ### TIMING DIAGRAM:
